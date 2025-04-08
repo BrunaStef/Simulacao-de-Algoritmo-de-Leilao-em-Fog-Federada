@@ -1,4 +1,6 @@
 # Simulação de Algoritmo de Leilão em Fog Federada
+Implementação de uma simulação de algoritmos de leilão aplicados em ambientes de computação em névoa com federação entre domínios. O objetivo é avaliar estratégias de alocação de recursos otimizadas por meio de leilões entre diferentes nós fog, promovendo eficiência e colaboração em cenários distribuídos.
+
 ### Cálculo da Tabela de Benefícios
 - Cada requisição possui uma latência máxima desejada e um uplink mínimo desejado
 - Cada fog possui um valor de latência e um uplink
